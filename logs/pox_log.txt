@@ -1,0 +1,42 @@
+POX 0.7.0 (gar) / Copyright 2011-2020 James McCauley, et al.
+WARNING:version:POX requires one of the following versions of Python: 3.6 3.7 3.8 3.9
+WARNING:version:You're running Python 3.12.
+WARNING:version:If you run into problems, try using a supported version.
+INFO:core:POX 0.7.0 (gar) is up.
+INFO:openflow.of_01:[00-00-00-00-00-01 1] connected
+INFO:flow_timeout_manager:Controlling 00-00-00-00-00-01
+INFO:openflow.of_01:[00-00-00-00-00-02 2] connected
+INFO:flow_timeout_manager:Controlling 00-00-00-00-00-02
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:openflow.of_01:[00-00-00-00-00-01 1] closed
+INFO:openflow.of_01:[00-00-00-00-00-01 4] connected
+INFO:flow_timeout_manager:Controlling 00-00-00-00-00-01
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Installing flow rule on 00-00-00-00-00-01: d2:c8:4a:5f:3c:3e -> 8a:d3:af:82:8e:2d out port 1
+INFO:flow_timeout_manager:Forwarding packet: out_port = 1
+INFO:flow_timeout_manager:Installing flow rule on 00-00-00-00-00-01: 8a:d3:af:82:8e:2d -> d2:c8:4a:5f:3c:3e out port 2
+INFO:flow_timeout_manager:Forwarding packet: out_port = 2
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Forwarding packet: out_port = 65531
+INFO:flow_timeout_manager:Installing flow rule on 00-00-00-00-00-01: 8a:d3:af:82:8e:2d -> d2:c8:4a:5f:3c:3e out port 2
+INFO:flow_timeout_manager:Forwarding packet: out_port = 2
+INFO:flow_timeout_manager:Installing flow rule on 00-00-00-00-00-01: d2:c8:4a:5f:3c:3e -> 8a:d3:af:82:8e:2d out port 1
+INFO:flow_timeout_manager:Forwarding packet: out_port = 1
+INFO:openflow.of_01:[00-00-00-00-00-01 4] closed
