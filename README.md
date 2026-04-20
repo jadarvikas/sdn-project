@@ -13,7 +13,7 @@ Flow tables in switches have limited capacity. Idle timeouts prevent stale flows
 - Mininet (network emulator)  
 - POX controller (OpenFlow 1.0)  
 - OpenFlow protocol  
-- Tools: `ovs-ofctl`, `ping`, `iperf3`, Wireshark
+- Tools: `ovs-ofctl`, `ping`, `iperf`
 
 ---
 
